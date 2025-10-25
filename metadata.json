@@ -1,0 +1,8 @@
+{
+  "name": "prototype",
+  "description": "An application that generates a personalized, role-specific learning roadmap for students in the software industry. It uses AI to suggest technologies and milestones, adapting the path based on the student's declared skill level.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
